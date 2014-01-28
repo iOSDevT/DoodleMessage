@@ -1,0 +1,15 @@
+Package: me.qusic.doodlemessage
+Version: 0.7
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.filippobiga.lastpic
+Architecture: iphoneos-arm
+Name: Doodle Message
+Description: create a doodle to send in Messages app
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Qusic <QusicS@Me.com>
+Tag: purpose::extension
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doodlemessageDp
+dev: qusic
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doodlemessageDp

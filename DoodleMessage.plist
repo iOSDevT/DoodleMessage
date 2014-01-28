@@ -1,0 +1,8 @@
+{ Filter = { Bundles = (
+ "com.apple.chatkit",
+ "com.apple.MobileSMS",
+ "com.bitesms",
+ "net.whatsapp.WhatsApp",
+ "com.facebook.Messenger",
+ "com.tencent.xin"
+); }; }
